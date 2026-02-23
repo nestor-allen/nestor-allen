@@ -103,7 +103,7 @@ me = Developer()
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/FOLLOW-ffb6c1?style=for-the-badge&labelColor=000000)](https://github.com/nestor-allen)
+[![GitHub](https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&labelColor=000000)](https://www.linkedin.com/in/nestorobiacoro/)
 
 **Open to exciting opportunities and collaborations!**
 
