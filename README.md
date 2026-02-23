@@ -1,67 +1,116 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Nestor+👋;Fresh+CS+Grad+%7C+Software+Developer+🚀;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nestor-allen&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/nestor-allen?label=Followers&style=social" alt="followers" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=180&section=header&text=NESTOR%20OBIACORO&fontSize=40&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Fresh%20CS%20Graduate&descAlignY=51&descAlign=50&animation=twinkling" />
 
-<p align="center">
-  🎓 Fresh Computer Science Graduate | 💻 Building Cool Stuff | 🌱 Always Learning
-</p>
+</div>
 
-<p align="center">
-  <a href="https://allenobiacoro.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-allenobiacoro.dev-00D9FF?style=for-the-badge" alt="portfolio" />
-  </a>
-</p>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=FFB6C1&center=true&vCenter=true&width=600&height=60&lines=Kind+human%2C+occasional+coder+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;Writing+code+and+spreading+smiles+%3A);Just+a+dev+trying+their+best+%F0%9F%92%9B" alt="Typing SVG" alt="Typing SVG" />
+  
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-allenobiacoro.dev-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://allenobiacoro.dev)
+  ![Profile Views](https://komarev.com/ghpvc/?username=nestor-allen&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### ABOUT ME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nestor-allen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestor-allen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180em" />
-</p>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Nestor Allen Obiacoreo"
+        self.role = "Full-Stack Developer"
+        self.education = "BSc. Computing Science @ University of Alberta"
+        self.location = "Edmonton, Alberta"
+    
+    def current_focus(self):
+        return [
+            "Side projects",
+            "Land a SWE Job!", 
+            "Collaborating w/ others :)",
+        ]
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nestor-allen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</p>
+me = Developer()
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nestor-allen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</p>
+<br clear="right"/>
 
 ---
 
-### 🎯 Current Focus
+### TECH ARSENAL
 
-- 🔭 Exploring new technologies and building projects
-- 🌱 Deepening my knowledge in software development
-- 👯 Looking to collaborate on interesting open-source projects
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</p>
+### GITHUB ANALYTICS
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/nestor-allen">nestor-allen</a></i>
-</p>
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nestor-allen&hide_border=true&background=FFB6C1&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000" alt="GitHub Streak" />
+</div>
+
+---
+
+### LET'S CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/FOLLOW-ffb6c1?style=for-the-badge&labelColor=000000)](https://github.com/nestor-allen)
+
+**Open to exciting opportunities and collaborations!**
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=100&section=footer" />
+
+</div>
