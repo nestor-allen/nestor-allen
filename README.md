@@ -43,6 +43,10 @@
 <br>C
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
 <br>Java
 </td>
@@ -95,6 +99,10 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
 <br>Svelte
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+<br>.NET
 </td>
 </tr>
 </table>
