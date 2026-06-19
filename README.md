@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=180&section=header&text=NESTOR%20OBIACORO&fontSize=40&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Fresh%20CS%20Graduate&descAlignY=51&descAlign=50&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=180&section=header&text=NESTOR%20OBIACORO&fontSize=40&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Fresh%20CS%20Graduate&descAlignY=51&descAlign=50" />
 
 </div>
 
@@ -19,36 +19,19 @@
   
 </div>
 
----
-
 ### ABOUT ME
+- CS Graduate with experience across the full stack
+- Deepening my knowledge in **.NET and System Design**
+- Open to junior/new grad opportunities
+- Based in **Edmonton AB, Canada**
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nestor Allen Obiacoreo"
-        self.role = "Full-Stack Developer"
-        self.education = "BSc. Computing Science @ University of Alberta"
-        self.location = "Edmonton, Alberta"
-    
-    def current_focus(self):
-        return [
-            "Side projects",
-            "Land a SWE Job!", 
-            "Collaborating w/ others :)",
-        ]
+<br/>
 
-me = Developer()
-```
-
-<br clear="right"/>
-
----
-
-### TECH ARSENAL
+### SKILLS / TOOLS I USE
 
 <div align="center">
 
+**Languages**
 <table>
 <tr>
 <td align="center" width="96">
@@ -60,35 +43,98 @@ me = Developer()
 <br>C
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+<br>SQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+<br>Swift
+</td>
+</tr>
+</table>
+
+**Libraries & Frameworks**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+<br>React.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<br>Angular
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+<br>Svelte
+</td>
+</tr>
+</table>
+
+**Developer Tools**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+<br>Android Studio
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
 </td>
 </tr>
 </table>
 
 </div>
 
----
 
 ### GITHUB ANALYTICS
 
