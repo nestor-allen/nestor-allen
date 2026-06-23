@@ -21,7 +21,7 @@
 
 ### ABOUT ME
 - CS Graduate with experience across the full stack
-- Deepening my knowledge in **.NET and System Design**
+- Deepening my knowledge in **.NET, clean architecture and System Design**
 - Open to junior/new grad opportunities
 - Based in **Edmonton AB, Canada**
 
